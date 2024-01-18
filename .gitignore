@@ -13,6 +13,16 @@ bin-release/
 *.ipa
 *.apk
 
+**/mvnw
+**/mvnw.cmd
+
+**/.mvn
+**/target/
+
+.idea
+
+**/.gitignore
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
